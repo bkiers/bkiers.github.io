@@ -12,4 +12,4 @@ You can find me at:
 * [Github](https://github.com/bkiers)
 * my [old blog](http://bkiers.blogspot.com) with some ANTLR (3) tutorials
 
-Feel free to contact me via e-mail. However, if you have a programming related question, please ask it on stackoverflow: I don't do private one-on-one consulting. At least, not for free :)
+Feel free to contact me via e-mail. However, if you have a programming related question, please ask it on stack**overflow**: I don't do private one-on-one consulting. At least, not for free :)
