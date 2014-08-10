@@ -1,1 +1,1 @@
-### Original repository: https://github.com/barryclark/jekyll-now
+### Forkerd from: https://github.com/barryclark/jekyll-now
