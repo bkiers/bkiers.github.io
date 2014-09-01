@@ -4,7 +4,7 @@ title: About
 published: true
 ---
 
-I am Bart Kiers, a software engineer living in Rotterdam, the Netherlands. I work at [DEAL Services](https://www.dealservices.nl/en/home), an [Almende](http://www.almende.com/home) spin-off, and sometimes do some freelance work
+I am Bart Kiers, a software engineer living in Rotterdam, the Netherlands. I work at [Q42](http://www.q42.com), and sometimes do some freelance work.
 
 You can find me at:
 
